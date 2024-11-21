@@ -23,20 +23,20 @@ This repository contains interactive dashboards designed to analyze and monitor 
 
 ## Screenshots
 
-### Dashboard 1: Revenue and Inventory Overview
-![Screenshot 1](./Screenshot1.png)
+![SCM1](https://github.com/user-attachments/assets/52421cd7-bb63-4202-bd00-239a206d6184)
 
-### Dashboard 2: Customer Demographics and Stock Levels
-![Screenshot 2](./Screenshot2.png)
+![SCM2](https://github.com/user-attachments/assets/406656ac-93be-472a-a8a0-18ec6db51dd6)
 
-### Dashboard 3: Product Availability and Lead Time Analysis
-![Screenshot 3](./Screenshot3.png)
+![SCM3](https://github.com/user-attachments/assets/ca061181-e58b-4002-bc39-519d41b02409)
 
-### Dashboard 4: Shipping Times and Costs
-![Screenshot 4](./Screenshot4.png)
+![SCM4](https://github.com/user-attachments/assets/dd904cea-e4b9-4d69-a61e-ac9817e0180d)
 
-### Dashboard 5: Manufacturing Costs and Defect Impact
-![Screenshot 5](./Screenshot5.png)
+![SCM5](https://github.com/user-attachments/assets/6c487177-2246-4f56-a6bf-83b0e2e70a2f)
+
+![SCM6](https://github.com/user-attachments/assets/66912efa-d541-4f70-bd9b-486a69c24145)
+
+![SCM7](https://github.com/user-attachments/assets/9b8b715b-9c6a-4c0c-a68c-8d64d73009c0)
+
 
 ## Tools Used
 
@@ -68,5 +68,4 @@ These dashboards provide actionable insights into supply chain management, enabl
    - Monitor defect rates and their impact on manufacturing lead times to identify bottlenecks in production.
    - Reduce manufacturing costs while maintaining quality by analyzing cost trends across product types.
 
-These insights help businesses improve supply chain performance, enhance customer satisfaction, and maximize profitability.
 
